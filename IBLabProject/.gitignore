@@ -12,6 +12,7 @@ obj/
 
 # User secrets and sensitive files
 users.json
+appsettings.json
 appsettings.Development.json
 
 # OS generated files
